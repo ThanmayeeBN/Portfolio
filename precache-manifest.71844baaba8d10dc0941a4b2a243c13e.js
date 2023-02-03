@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3afd1a6b10644271ee51",
+    "revision": "fec195a2b3f66ed93752",
     "url": "/Portfolio/static/css/main.d9ca012e.chunk.css"
   },
   {
-    "revision": "3afd1a6b10644271ee51",
-    "url": "/Portfolio/static/js/main.857095a6.chunk.js"
+    "revision": "fec195a2b3f66ed93752",
+    "url": "/Portfolio/static/js/main.95b8b896.chunk.js"
   },
   {
     "revision": "6b64d540f1308ee928ad",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/Thanmayee.1ba7c23b.pdf"
   },
   {
-    "revision": "a6afadc7cee0cff78b064f6cb80c2b92",
+    "revision": "bf6a2a019e2276fedca2c5fa48a00938",
     "url": "/Portfolio/index.html"
   }
 ];
