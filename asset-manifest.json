@@ -1,15 +1,15 @@
 {
-  "main.css": "/ThanmayeeBN/Portfolio/static/css/main.d9ca012e.chunk.css",
-  "main.js": "/ThanmayeeBN/Portfolio/static/js/main.857095a6.chunk.js",
-  "main.js.map": "/ThanmayeeBN/Portfolio/static/js/main.857095a6.chunk.js.map",
-  "runtime~main.js": "/ThanmayeeBN/Portfolio/static/js/runtime~main.c7968179.js",
-  "runtime~main.js.map": "/ThanmayeeBN/Portfolio/static/js/runtime~main.c7968179.js.map",
-  "static/js/2.a76f7fa7.chunk.js": "/ThanmayeeBN/Portfolio/static/js/2.a76f7fa7.chunk.js",
-  "static/js/2.a76f7fa7.chunk.js.map": "/ThanmayeeBN/Portfolio/static/js/2.a76f7fa7.chunk.js.map",
-  "index.html": "/ThanmayeeBN/Portfolio/index.html",
-  "precache-manifest.2f1c4b2462d7b8d398d8f2fa193a67a4.js": "/ThanmayeeBN/Portfolio/precache-manifest.2f1c4b2462d7b8d398d8f2fa193a67a4.js",
-  "service-worker.js": "/ThanmayeeBN/Portfolio/service-worker.js",
-  "static/css/main.d9ca012e.chunk.css.map": "/ThanmayeeBN/Portfolio/static/css/main.d9ca012e.chunk.css.map",
-  "static/media/ProfilePicture.jpg": "/ThanmayeeBN/Portfolio/static/media/ProfilePicture.ee196ffb.jpg",
-  "static/media/Thanmayee.pdf": "/ThanmayeeBN/Portfolio/static/media/Thanmayee.1ba7c23b.pdf"
+  "main.css": "/Portfolio/static/css/main.d9ca012e.chunk.css",
+  "main.js": "/Portfolio/static/js/main.857095a6.chunk.js",
+  "main.js.map": "/Portfolio/static/js/main.857095a6.chunk.js.map",
+  "runtime~main.js": "/Portfolio/static/js/runtime~main.132fbc8c.js",
+  "runtime~main.js.map": "/Portfolio/static/js/runtime~main.132fbc8c.js.map",
+  "static/js/2.a76f7fa7.chunk.js": "/Portfolio/static/js/2.a76f7fa7.chunk.js",
+  "static/js/2.a76f7fa7.chunk.js.map": "/Portfolio/static/js/2.a76f7fa7.chunk.js.map",
+  "index.html": "/Portfolio/index.html",
+  "precache-manifest.71263e4df0bd4c710a528777c435a0ca.js": "/Portfolio/precache-manifest.71263e4df0bd4c710a528777c435a0ca.js",
+  "service-worker.js": "/Portfolio/service-worker.js",
+  "static/css/main.d9ca012e.chunk.css.map": "/Portfolio/static/css/main.d9ca012e.chunk.css.map",
+  "static/media/ProfilePicture.jpg": "/Portfolio/static/media/ProfilePicture.ee196ffb.jpg",
+  "static/media/Thanmayee.pdf": "/Portfolio/static/media/Thanmayee.1ba7c23b.pdf"
 }
